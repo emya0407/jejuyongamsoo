@@ -218,21 +218,23 @@ section#water .row .point_wrap{
 	position: absolute;
   left: 50%;
   transform: translateX(-50%);
+  top: 50%;
+  transform: translateY(-50%);
 	width: 32px;
 	height: 32px;
   z-index: 600;
 }
 #water .point.point-1 {
-	top: 118px;
-  margin-left: 56px;
+	margin-top: 125px;
+  margin-left: 23px;
 }
 #water .point.point-2 {
-	top: 154px;
-  margin-left:-55px;
+	margin-top: 160px;
+  margin-left:-88px;
 }
 #water .point.point-3 {
-	top: 246px;
-  margin-left: 56px;
+	margin-top: 251px;
+  margin-left: 23px;
 }
 .point .bg {
 	position: absolute;
