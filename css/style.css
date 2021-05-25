@@ -597,6 +597,10 @@ section .row .column .inner img{
   section .row .column{
     flex: 50%;
   }
+  section .row > h2{
+    top: 60px;
+    font-size: 30px;
+  }
   section#water .row .column .inner img{
     width: 30%;
   }
