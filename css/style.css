@@ -689,7 +689,10 @@ section .row .column .inner img{
   }
   section .row > h2{
     font-size: 30px;
-    top:65px;
+    top: 65px;
   }
-  }
+  section#info .row > h2{
+    font-size: 30px;
+    line-height: 45px;
+    top:15px;
 }
